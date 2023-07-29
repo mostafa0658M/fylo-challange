@@ -14,8 +14,8 @@ export default {
         opensans: ['"Open Sans"', "sans-serif"],
       },
       backgroundImage: {
-        curvyMobile: "url('./images/bg-curvy-mobile.svg')",
-        curvyDesktop: "url('./images/bg-curvy-desktop.svg')",
+        curvyMobile: "url('./assets/bg-curvy-mobile.svg')",
+        curvyDesktop: "url('./assets/bg-curvy-desktop.svg')",
         quote: "url('./images/bg-quotes.png')",
       },
       backgroundPosition: {
